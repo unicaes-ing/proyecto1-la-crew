@@ -1,0 +1,6 @@
+c:\users\rossy\documents\visual studio 2013\Projects\Proyect\Proyect\bin\Debug\Proyect.exe.config
+c:\users\rossy\documents\visual studio 2013\Projects\Proyect\Proyect\bin\Debug\Proyect.exe
+c:\users\rossy\documents\visual studio 2013\Projects\Proyect\Proyect\bin\Debug\Proyect.pdb
+c:\users\rossy\documents\visual studio 2013\Projects\Proyect\Proyect\obj\Debug\Proyect.csprojResolveAssemblyReference.cache
+c:\users\rossy\documents\visual studio 2013\Projects\Proyect\Proyect\obj\Debug\Proyect.exe
+c:\users\rossy\documents\visual studio 2013\Projects\Proyect\Proyect\obj\Debug\Proyect.pdb
