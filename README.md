@@ -1,5 +1,5 @@
 # Proyecto Final (La Crew)
-### Maquina Expendedora (Proyecto Final)}
+### Maquina Expendedora (Proyecto Final en C#)
 ### Integrantes:
 - Kevin José Lara Menjivar
 - Máximo Alejandro Zamora Murillo
